@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nur Ayu Amira</h1>
+<h1 align="center">Hi 👋, I'm  Ayu Amira</h1>
 <h3 align="center">Passionate Cybersecurity Student | Protecting the Digital World 🛡️ | Exploring the World of Hacks and Defenses 🌐 | Constantly Learning and Securing the Future 🔒</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
