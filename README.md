@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nur Ayu Amira</h1>
 <h3 align="center">A student from Multimedia University, Cyberjaya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurayuamira" alt="nurayuamira" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YDq0rOyP4cUawItmAfia1GImCon5uGZS/view](https://drive.google.com/file/d/1YDq0rOyP4cUawItmAfia1GImCon5uGZS/view)
 
-- ⚡ Fun fact **I think I am rock**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
