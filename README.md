@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **yuz9690@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YDq0rOyP4cUawItmAfia1GImCon5uGZS/view](https://drive.google.com/file/d/1YDq0rOyP4cUawItmAfia1GImCon5uGZS/view)
+- 📄 Know about my experiences https://drive.google.com/file/d/1-GFHthvIZt2bzZQTe9LskAwB1qIr2s3s/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
