@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nur Ayu Amira</h1>
-<h3 align="center">A student from Multimedia University, Cyberjaya</h3>
 
 
 - 🌱 I’m currently learning **Cybersecurity**
